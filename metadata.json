@@ -1,0 +1,12 @@
+{
+  "name": "Sơn Chống Nóng Gold Rober",
+  "description": "Giải pháp sơn phủ phản nhiệt công nghệ cao chống bức xạ giảm 5-25°C cho mái tôn và nhà xưởng từ Sơn Thăng Long.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
